@@ -1,7 +1,7 @@
 /*
- *  Ost Oopover plugin  - v0.0.1
+ *  Ost Popover plugin  - v0.0.1
  *  A lightWeight popover plugin with jquery
- *  https://github.com/...
+ *  https://github.com/pvoznyuk/jquery.ost-popover/
  *
  *  Made by Pavlo Vozniuk
  *  Under MIT License
