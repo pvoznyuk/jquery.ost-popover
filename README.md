@@ -1,2 +1,2 @@
 # jquery.ost-popover
-Custmizable jQuery Popover plugin
+Customizable jQuery Popover plugin
